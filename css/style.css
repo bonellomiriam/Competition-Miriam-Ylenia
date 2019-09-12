@@ -44,11 +44,19 @@ body {
 .fa-facebook {
   background: #3B5998;
   color: white;
+  border-radius: 360px;
 }
 
 .fa-twitter {
   background: #55ACEE;
   color: white;
+  border-radius: 360px;
+}
+
+.fa-pinterest {
+  background: red;
+  color: white;
+  border-radius: 360px;
 }
 
 h1{
