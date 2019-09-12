@@ -1,7 +1,7 @@
 
 body {
   font-family: 'Assistant', sans-serif;
-  background-color: #d6cbd3;
+  background-color: #f4e1d2;
 }
 
 .custom-box {
@@ -14,7 +14,7 @@ body {
 .carousel-inner {
   max-height:600px;
   border-radius: 5px;
-  background-color: #d6cbd3;
+  background-color: #f4e1d2;
 }
 
 .navbar-brand{
@@ -57,15 +57,15 @@ h1{
 }
 
 .form-control{
-  background-color: #d6cbd3;
+  background-color: #f4e1d2;
   border: 1px solid black;
   border-radius: 5px;
 }
 
 h2{
-  font-size: 20px;
+  font-size: 23px;
 }
 
 h3{
-  font-size:20px;
+  font-size:23px;
 }
